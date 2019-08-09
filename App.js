@@ -7,9 +7,9 @@ export default class ButtonBasics extends Component {
   state = {
     photo: null,
     avatarSource: null,
-    
+    test:null,  
   }
-  //test
+  
   handleChoosePhoto = () => {
     const options = {
     };
